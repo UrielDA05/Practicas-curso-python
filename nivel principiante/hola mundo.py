@@ -1,3 +1,4 @@
+# Este es un comentario
 print ("Hello world");
 print ("Mi nombre es Uriel")
 # concatenacion de cadenas
@@ -7,3 +8,9 @@ print (nombre)
 print (apellido)
 nombreCompleto = (nombre + " " + apellido)
 print (nombreCompleto)
+'''
+Para un comentario de varias lineas o declarar una 
+variable String se puede utilizar comillas simples ' 
+o doblea
+'''
+
