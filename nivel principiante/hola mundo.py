@@ -8,6 +8,7 @@ print (nombre)
 print (apellido)
 nombreCompleto = (nombre + " " + apellido)
 print (nombreCompleto)
+print ("Tengo 17")
 '''
 Para un comentario de varias lineas o declarar una 
 variable String se puede utilizar comillas simples ' 
