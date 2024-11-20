@@ -1,5 +1,5 @@
 import random 
-#from werkzeug.security import generate_password_hash
+from werkzeug.security import generate_password_hash
 
 minus = "abcdefghijklmnopqrstuvwxyz"
 mayus = minus.upper()
